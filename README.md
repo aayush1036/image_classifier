@@ -1,0 +1,1 @@
+This is an image classifier using neural networks built using tensorflow as a backend. This file uses cifar 10 dataset and classifies images into 10 different categoriees. This file is coded in python 3
